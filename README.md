@@ -9,7 +9,7 @@ This project analyzes supermarket sales data using SQL queries to extract busine
 - Excel Dataset
 
 ## Dataset Preview
-![Dataset](dataset_preview.png)
+![Dataset](dataset_preview .png)
 
 ## Sales by City
 ![Sales by City](sales_by_city.png)
