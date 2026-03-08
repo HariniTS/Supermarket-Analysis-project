@@ -23,7 +23,7 @@ The dataset contains supermarket transaction records including:
 - Excel Dataset
 
 ## Dataset Preview
-![Dataset](dataset_preview.png)
+![Dataset](dataset_preview .png)
 
 ## Business Questions Solved
 
